@@ -1,2 +1,2 @@
 # GAN-ImageGeneration
- Implementing a Paper on deep learning through a Weighted-General Adversarial Network for image generation
+ Implementing a Paper on deep learning through a Deep Convolutional General Adversarial Network for image generation
